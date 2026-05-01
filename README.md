@@ -17,8 +17,8 @@ lecture04[https://reurl.cc/Dxxa4m]\
 lecture05[https://reurl.cc/kppmOd]\
 練習使用 while True 無窮迴圈與 break 控制流程，實作能從大量輸入中找出極值的計算程式以及互動式的猜數字遊戲。
 
-lecture06
-
+lecture06[https://reurl.cc/YDDLEX]\
+深入學習自定義函式的參數傳遞與回傳值機制（Return），並透過巢狀迴圈（Nested Loops）實作幾何圖形繪製與基礎數值運算程式。
 
 lecture07
 
