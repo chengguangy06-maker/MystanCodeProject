@@ -20,8 +20,8 @@ lecture05[https://reurl.cc/kppmOd]\
 lecture06[https://reurl.cc/YDDLEX]\
 深入學習自定義函式的參數傳遞與回傳值機制（Return），並透過巢狀迴圈（Nested Loops）實作幾何圖形繪製與基礎數值運算程式。
 
-lecture07
-
+lecture07[https://reurl.cc/V22KY5]\
+實作布林函式（Predicate Function）與雙重迴圈應用，並透過字串走訪與串接技術（Concatenation）練習基礎的字串處理邏輯。
 
 lecture08
 
