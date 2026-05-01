@@ -23,8 +23,8 @@ lecture06[https://reurl.cc/YDDLEX]\
 lecture07[https://reurl.cc/V22KY5]\
 實作布林函式（Predicate Function）與雙重迴圈應用，並透過字串走訪與串接技術（Concatenation）練習基礎的字串處理邏輯。
 
-lecture08
-
+lecture08[https://reurl.cc/lpp8YA]\
+進階字串處理與除錯技巧：實作字串反轉、關鍵字替換與大小寫轉換邏輯，並透過 PyCharm Debugger 觀察程式執行流與變數狀態。
 
 lecture09
 
