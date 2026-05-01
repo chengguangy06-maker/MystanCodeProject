@@ -1,2 +1,2 @@
-Hello there!
-This repository holds my programming projects done during the period of stanCode SC001 course.
+您好！\
+這是我在學習 stanCode SC001 課程期間完成的程式設計專案。\
