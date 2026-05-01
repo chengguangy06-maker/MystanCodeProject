@@ -10,8 +10,8 @@ lecture02[https://reurl.cc/A99xdZ]\
 
 lecture03[https://reurl.cc/yOO26q]\
 使用 for 迴圈與 if/else 判斷障礙物，並透過自定義函式實作「跳躍」邏輯，讓機器人能自動跨越高度不一的障礙
-lecture04
-
+lecture04[https://reurl.cc/Dxxa4m]\
+學習 Python 基本語法、變數型別轉換與使用者輸入，並透過 if/elif/else 邏輯實作簡易的帳單計算器與成績分級系統。
 lecture05
 
 lecture06
