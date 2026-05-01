@@ -14,8 +14,8 @@ lecture03[https://reurl.cc/yOO26q]\
 lecture04[https://reurl.cc/Dxxa4m]\
 學習 Python 基本語法、變數型別轉換與使用者輸入，並透過 if/elif/else 邏輯實作簡易的帳單計算器與成績分級系統。
 
-lecture05
-
+lecture05[https://reurl.cc/kppmOd]\
+練習使用 while True 無窮迴圈與 break 控制流程，實作能從大量輸入中找出極值的計算程式以及互動式的猜數字遊戲。
 
 lecture06
 
