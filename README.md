@@ -8,8 +8,8 @@ lecture01[https://reurl.cc/6GGWZk]\
 lecture02[https://reurl.cc/A99xdZ]\
 透過 while 迴圈實作自動化路徑與條件判斷（if/else），讓機器人能適應不同大小的環境並避免重複放置物件。
 
-lecture03
-
+lecture03\
+使用 for 迴圈與 if/else 判斷障礙物，並透過自定義函式實作「跳躍」邏輯，讓機器人能自動跨越高度不一的障礙
 lecture04
 
 lecture05
