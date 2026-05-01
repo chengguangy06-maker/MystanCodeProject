@@ -26,8 +26,8 @@ lecture07[https://reurl.cc/V22KY5]\
 lecture08[https://reurl.cc/lpp8YA]\
 進階字串處理與除錯技巧：實作字串反轉、關鍵字替換與大小寫轉換邏輯，並透過 PyCharm Debugger 觀察程式執行流與變數狀態。
 
-lecture09
-
+lecture09[https://reurl.cc/grr9YL]\
+學習 Python 檔案讀取（File Input）與文字處理，實作自動統計檔案行數、過濾空行及搜尋特定文字檔中最長字串的邏輯。
 
 lecture10
 
