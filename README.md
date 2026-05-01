@@ -29,7 +29,5 @@ lecture08[https://reurl.cc/lpp8YA]\
 lecture09[https://reurl.cc/grr9YL]\
 學習 Python 檔案讀取（File Input）與文字處理，實作自動統計檔案行數、過濾空行及搜尋特定文字檔中最長字串的邏輯。
 
-lecture10
-
-
-car_risk
+car_risk[https://reurl.cc/V22KmY]\
+學習使用 pandas 與 matplotlib 進行數據分析與視覺化，實作多子圖（Subplots）排版，深入觀察汽車規格（如進氣、燃料、門數）對保險風險等級（Symboling）的影響。
